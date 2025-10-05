@@ -1,1 +1,1 @@
-{"name":"Local: main","url":"/Users/kimyongbin/c/main.c","tests":[{"id":1745135989068,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kimyongbin/c/main.c","group":"local","local":true}
+{"name":"Local: main","url":"/Users/kimyongbin/c/main.c","tests":[{"id":1745135989068,"input":"1\n1","output":"1"},{"id":1759560220348,"input":"5\n54321","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kimyongbin/c/main.c","group":"local","local":true}
