@@ -107,4 +107,5 @@ Temporary Items
 .history
 .ionide
 
+*.bin
 # End of https://www.toptal.com/developers/gitignore/api/macos,c,visualstudiocodead
